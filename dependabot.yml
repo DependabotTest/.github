@@ -4,11 +4,11 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "12:32"
+      time: "16:00"
       timezone: "Europe/Vienna"
   - package-ecosystem: "gradle"
     directory: "/"
     schedule:
       interval: "daily"
-      time: "12:32"
+      time: "16:00"
       timezone: "Europe/Vienna"
